@@ -1,0 +1,34 @@
+# My daily tools
+
+"gtkpod" #iPod music manager
+"freefilesync" #Folders comparition and sync
+"vim" #textEditor
+"Audacity" #MusicEditor
+"vlc" #MusicPlayer
+"PyCharm" #PythonIDE
+"kitty" #terminal
+"flameshot" #screenshot tool
+"wine" #Windows app launcher
+"poppler-utils" #PDF utilities (based on Poppler, countain pdfunite, pdfseparate)
+"oh-my-bash" # framework for BASH configuration management
+"calibre" #e-book manager
+"ObinsKit" #AnnePro2 controler
+"inkscape" #Vector image editor
+"Google message desktop" 
+"WhatsApp"
+"Signal" 
+"brightness-controller" #Easily adjust your display brightness and color temperature
+"deluge" #torrent client
+"touchegg" #Multi-touch gesture recognizer
+"Easy Strokes Gesture Recognition" #other gesture recognition
+"virtualbox" #Virtual system runner
+"FileZilla" #FTP Client
+"Web apps" #Run website as application
+"Etcher" #Create bootable devices
+"Plank" #Dock-bar launcher
+
+#-------Cinnamon custom-------
+"cinnamon-menu"
+"Weather"
+"Windows Quick List"
+
